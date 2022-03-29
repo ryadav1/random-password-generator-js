@@ -15,4 +15,6 @@ In order to use the application:
 ## Contribution
 Made with ❤️ by Rajnish Yadav
 
+<img width="854" alt="screenshot of random password generator website" img="/Users/rajnish/Desktop/pwd-generator.png">
+
 
